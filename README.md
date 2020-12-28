@@ -1,4 +1,4 @@
-# To-do list website final Project
+# To-do list App
 
 ## Summary
 
@@ -12,8 +12,3 @@ Our team does not initiate the app with 3 random items. We let the users decide 
 After that, they can edit or remove the items from the list.
 
 Shoutout to Brian Design. This is the original version of this todo app: https://github.com/briancodex/react-todo-app-v1
-
-### Team members:
-
-- Tuan Nguyen
-- Duy Nguyen
